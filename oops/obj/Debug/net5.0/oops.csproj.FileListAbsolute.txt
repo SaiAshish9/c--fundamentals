@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/oops
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/oops.deps.json
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/oops.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/oops.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/oops.dll
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/ref/oops.dll
+/home/saiashish9/Desktop/projects/c#/oops/bin/Debug/net5.0/oops.pdb
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.dll
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/ref/oops.dll
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.pdb
+/home/saiashish9/Desktop/projects/c#/oops/obj/Debug/net5.0/oops.genruntimeconfig.cache
