@@ -21,5 +21,12 @@ sudo apt-get update; \
   sudo apt-get update && \
   sudo apt-get install -y aspnetcore-runtime-5.0
 
+dotnet --version
+
+dotnet new
+
+dotnet new console
+
+dotnet run
 
 ```
