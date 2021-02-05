@@ -21,7 +21,21 @@ namespace strings_enum_reference_types
             var d = 1;
             Console.WriteLine((A)d);
             Console.WriteLine(d.ToString());
-            Console.WriteLine((A)Enum.Parse(typeof(A),"a"));
+            Console.WriteLine((A)Enum.Parse(typeof(A), "a"));
+
+
+            // Value Types And Reference Types
+
+            var p = 2;
+            var q = p;
+            q++;
+            Console.WriteLine("{0} {1}",p,q);
+
+            var i = new int[2]{0,1};
+            var j=i;
+            j[0]=4;
+            Console.WriteLine("{0} {1}",i[0],j[0]);
+
         }
         public enum A
         {
