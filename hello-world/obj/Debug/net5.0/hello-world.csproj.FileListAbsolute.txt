@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/hello-world
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/hello-world.deps.json
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/hello-world.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/hello-world.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/hello-world.dll
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/ref/hello-world.dll
+/home/saiashish9/Desktop/projects/c#/hello-world/bin/Debug/net5.0/hello-world.pdb
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.dll
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/ref/hello-world.dll
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.pdb
+/home/saiashish9/Desktop/projects/c#/hello-world/obj/Debug/net5.0/hello-world.genruntimeconfig.cache
