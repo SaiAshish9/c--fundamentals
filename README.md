@@ -1,4 +1,4 @@
-## Installation Of C# Extension on VS Code
+## Installation of C# Extension on VS Code
 
 https://www.youtube.com/watch?v=WeTesTCzep0
 
