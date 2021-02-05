@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "strings-enum-reference-types/1.0.0": {
+        "runtime": {
+          "strings-enum-reference-types.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "strings-enum-reference-types/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

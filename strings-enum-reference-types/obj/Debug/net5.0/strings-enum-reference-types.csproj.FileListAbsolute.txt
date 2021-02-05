@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/strings-enum-reference-types
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/strings-enum-reference-types.deps.json
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/strings-enum-reference-types.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/strings-enum-reference-types.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/strings-enum-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/ref/strings-enum-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/bin/Debug/net5.0/strings-enum-reference-types.pdb
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/ref/strings-enum-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.pdb
+/home/saiashish9/Desktop/projects/c#/strings-enum-reference-types/obj/Debug/net5.0/strings-enum-reference-types.genruntimeconfig.cache
