@@ -25,8 +25,10 @@ dotnet --version
 
 dotnet new
 
-dotnet new console
+dotnet new console -o hello-world 
 
-dotnet run
+cd run/
+
+dotnet run 
 
 ```
