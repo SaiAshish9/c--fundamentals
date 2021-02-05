@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/value-types-reference-types
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/value-types-reference-types.deps.json
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/value-types-reference-types.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/value-types-reference-types.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/value-types-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/ref/value-types-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/bin/Debug/net5.0/value-types-reference-types.pdb
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/ref/value-types-reference-types.dll
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.pdb
+/home/saiashish9/Desktop/projects/c#/value-types-reference-types/obj/Debug/net5.0/value-types-reference-types.genruntimeconfig.cache
