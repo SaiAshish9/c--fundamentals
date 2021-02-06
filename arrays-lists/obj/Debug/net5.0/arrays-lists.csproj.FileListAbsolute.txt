@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/arrays-lists
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/arrays-lists.deps.json
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/arrays-lists.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/arrays-lists.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/arrays-lists.dll
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/ref/arrays-lists.dll
+/home/saiashish9/Desktop/projects/c#/arrays-lists/bin/Debug/net5.0/arrays-lists.pdb
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.dll
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/ref/arrays-lists.dll
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.pdb
+/home/saiashish9/Desktop/projects/c#/arrays-lists/obj/Debug/net5.0/arrays-lists.genruntimeconfig.cache
