@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/timespan
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/timespan.deps.json
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/timespan.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/timespan.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/timespan.dll
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/ref/timespan.dll
+/home/saiashish9/Desktop/projects/c#/timespan/bin/Debug/net5.0/timespan.pdb
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.dll
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/ref/timespan.dll
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.pdb
+/home/saiashish9/Desktop/projects/c#/timespan/obj/Debug/net5.0/timespan.genruntimeconfig.cache
