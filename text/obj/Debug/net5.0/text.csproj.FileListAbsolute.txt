@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/text
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/text.deps.json
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/text.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/text.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/text.dll
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/ref/text.dll
+/home/saiashish9/Desktop/projects/c#/text/bin/Debug/net5.0/text.pdb
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.dll
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/ref/text.dll
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.pdb
+/home/saiashish9/Desktop/projects/c#/text/obj/Debug/net5.0/text.genruntimeconfig.cache
