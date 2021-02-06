@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/stringbuilder
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/stringbuilder.deps.json
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/stringbuilder.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/stringbuilder.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/stringbuilder.dll
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/ref/stringbuilder.dll
+/home/saiashish9/Desktop/projects/c#/stringbuilder/bin/Debug/net5.0/stringbuilder.pdb
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.dll
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/ref/stringbuilder.dll
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.pdb
+/home/saiashish9/Desktop/projects/c#/stringbuilder/obj/Debug/net5.0/stringbuilder.genruntimeconfig.cache
