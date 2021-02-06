@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/dates
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/dates.deps.json
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/dates.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/dates.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/dates.dll
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/ref/dates.dll
+/home/saiashish9/Desktop/projects/c#/dates/bin/Debug/net5.0/dates.pdb
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.dll
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/ref/dates.dll
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.pdb
+/home/saiashish9/Desktop/projects/c#/dates/obj/Debug/net5.0/dates.genruntimeconfig.cache
