@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/procedural
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/procedural.deps.json
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/procedural.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/procedural.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/procedural.dll
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/ref/procedural.dll
+/home/saiashish9/Desktop/projects/c#/procedural/bin/Debug/net5.0/procedural.pdb
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.dll
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/ref/procedural.dll
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.pdb
+/home/saiashish9/Desktop/projects/c#/procedural/obj/Debug/net5.0/procedural.genruntimeconfig.cache
