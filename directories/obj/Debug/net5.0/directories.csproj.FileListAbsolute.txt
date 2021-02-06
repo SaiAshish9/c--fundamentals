@@ -1,0 +1,16 @@
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/directories
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/directories.deps.json
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/directories.runtimeconfig.json
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/directories.runtimeconfig.dev.json
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/directories.dll
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/ref/directories.dll
+/home/saiashish9/Desktop/projects/c#/directories/bin/Debug/net5.0/directories.pdb
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.csprojAssemblyReference.cache
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.GeneratedMSBuildEditorConfig.editorconfig
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.AssemblyInfoInputs.cache
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.AssemblyInfo.cs
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.csproj.CoreCompileInputs.cache
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.dll
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/ref/directories.dll
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.pdb
+/home/saiashish9/Desktop/projects/c#/directories/obj/Debug/net5.0/directories.genruntimeconfig.cache
